@@ -1,0 +1,20 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "message",
+        "label": "Ya",
+        "text": "Ya"
+      },
+      {
+        "type": "message",
+        "label": "Tidak",
+        "text": "Tidak"
+      }
+    ],
+    "text": "Kamu yakin ingin berpartisipasi pada event ini?"
+  }
+}

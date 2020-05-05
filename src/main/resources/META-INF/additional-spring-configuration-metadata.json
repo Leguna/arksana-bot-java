@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "com.linecorp.channel_access_token",
+      "type": "java.lang.String",
+      "description": "Description for com.linecorp.channel_access_token."
+    },
+    {
+      "name": "com.linecorp.channel_secret",
+      "type": "java.lang.String",
+      "description": "Description for com.linecorp.channel_secret."
+    }
+  ] }
